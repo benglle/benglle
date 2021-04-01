@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Python, C#, JS
 - 💞️ I’m looking to collaborate on anything...
-- 📫 How to reach me: Discord: #Benglle#5735
+- 📫 How to reach me: Discord: Benglle#5735
 
 <!---
 benglle/benglle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
