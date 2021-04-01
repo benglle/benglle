@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benglle
-- 👀 I’m interested in coding!
+- 👀 I’m interested in computer science, physics and maths!
 - 🌱 I’m currently learning Python, C#, JS
 - 💞️ I’m looking to collaborate on anything...
 - 📫 How to reach me: Discord: Benglle#5735
